@@ -3,6 +3,8 @@
 // @namespace	https://github.com/Sarusei
 // @version		0.1
 // @description	Copies anchor point data as coded values into the clipboard, to be used in a google sheet
+// @author		Sarusei
+// @ingame		https://elethor.com/profile/51368
 // @match		https://elethor.com/fight/spire
 // @license		GPL-3.0-or-later
 // @updateURL	https://raw.githubusercontent.com/Sarusei/ElethorSpireAnchorPointCodedCopier/master/ElethorSpireAnchorPointCodedCopier.user.js
